@@ -1,3 +1,7 @@
 Pasta fantasma .git 
 (-m) Assossiar mensagem ao commit 
-Git log Head apontador Head para o commmit atual (Move-se para o mais recente)
+Git log (HEAD) apontador HEAD) para o commmit atual (Move-se para o mais recente)
+(-a) Para todos os ficheiros da pasta 
+Git Checkout (HEAD~1)  mudar para commit anterior  
+Várias formas de voltar ao commit atual (User Commit ID)
+(master) aponta último commit feito na linha principal (No branches)
