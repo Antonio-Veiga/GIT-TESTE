@@ -1,3 +1,4 @@
 Pasta fantasma .git 
 (-m) Assossiar mensagem ao commit 
 Git log Head apontador Head para o commmit atual (Move-se para o mais recente)
+Teste de alteração Branch Commit 2
